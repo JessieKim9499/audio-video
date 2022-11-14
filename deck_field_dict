@@ -1,0 +1,32 @@
+(dp0
+VAccentMovie::AM 01 /i/ vs /\u026a/::B_Speaking
+p1
+(lp2
+S'ID'
+p3
+aS'Answer'
+p4
+aS'IPA_Answer'
+p5
+aS'Subtitle'
+p6
+aS'IPA_Subtitle'
+p7
+aS'Extra'
+p8
+asVmovieEnglish::mE 16 must and have to::B_Speaking
+p9
+(lp10
+S'ID'
+p11
+aS'Answer'
+p12
+aS'IPA_Answer'
+p13
+aS'Subtitle'
+p14
+aS'IPA_Subtitle'
+p15
+aS'Extra'
+p16
+as.
